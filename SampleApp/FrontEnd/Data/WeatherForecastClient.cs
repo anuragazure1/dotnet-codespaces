@@ -1,5 +1,10 @@
 namespace FrontEnd.Data;
 
+
+
+/// <summary>
+/// test
+/// </summary>
 public class WeatherForecastClient
 {
     private HttpClient _httpClient;
